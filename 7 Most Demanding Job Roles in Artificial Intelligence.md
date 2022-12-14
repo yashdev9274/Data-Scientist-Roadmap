@@ -1,5 +1,5 @@
 
-## 7 Most Demanded Job Roles in Artificial Intelligence
+## 7 Most Demanding Job Roles in Artificial Intelligence
 
 There are many different job roles within the fields of machine learning and artificial intelligence. Some of these roles include:
 
