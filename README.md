@@ -8,6 +8,10 @@ Data science is a field that involves the use of scientific methods, processes, 
 
 ## Skills required
 
+### Python 
+
+
+
 ### Statistics
 
 Here are some key things that a data scientist should learn in statistics:
