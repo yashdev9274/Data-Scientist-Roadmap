@@ -6,6 +6,9 @@ Data science is a field that involves the use of scientific methods, processes, 
 
 <br>
 
+Note
+> It is adviced to follow the path in the manner given below
+
 ## Skills required
 
 ### Python 
