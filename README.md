@@ -1,6 +1,8 @@
-# Data-Scientist-Roadmap
+# Data-Science / Data-Engineer-Roadmap
 
-## Fundamentals
+## Data-Science 
+
+### Fundamentals
 
 `Data science` is a field that involves the use of scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data. It involves the use of a wide range of techniques and tools from various fields such as statistics, machine learning, data mining, and computer science to analyze and interpret data. The goal of data science is to help organizations make better decisions and predictions by uncovering patterns and trends in data. Data scientists use various techniques, including machine learning algorithms, to build predictive models that can be used to make predictions and draw insights from data.
 
@@ -9,7 +11,7 @@
 Note
 > It is adviced to follow the path in the manner given below
 
-## Skills required
+### Skills required
 
 ### Python 
 
@@ -42,3 +44,7 @@ Here are some key things that a data scientist should learn in statistics:
 <br>
 
 ### Tool Box
+
+<br>
+
+## Data-Engineering
