@@ -16,8 +16,8 @@ Note
 ### Python 
 
 - [Notes](Python/Learning.md)
-- Commands(Python/Learning.md)
-- Projects(Python/Learning.md)
+- [Commands](Python/Learning.md)
+- [Projects](Python/Learning.md)
 
 
 ### Statistics
@@ -26,34 +26,34 @@ Here are some key things that a data scientist should learn in statistics:
 
 <!-- 1. Probability: Probability is the study of random events, and is an essential part of statistics. A data scientist should understand basic concepts such as probability distributions, Bayes' theorem, and random variables. -->
 
-- Notes(Python/Learning.md)
-- Commands(Python/Learning.md)
-- Projects(Python/Learning.md)
+- [Notes](Statistics/Learning.md)
+- [Commands](Statistics/Learning.md)
+- [Projects](Statistics/Learning.md)
 
 
 <br>
 
 ### Machine Learning
 
-- Notes(Python/Learning.md)
-- Commands(Python/Learning.md)
-- Projects(Python/Learning.md)
+- [Notes](Machine Learning/Learning.md)
+- [Commands](Machine Learning/Learning.md)
+- [Projects](Machine Learning/Learning.md)
 
 <br>
 
 ### Deep Learning
 
-- Notes(Python/Learning.md)
-- Commands(Python/Learning.md)
-- Projects(Python/Learning.md)
+- [Notes](DeepLearning/Learning.md)
+- [Commands](DeepLearning/Learning.md)
+- [Projects](DeepLearning/Learning.md)
 
 <br>
 
 ### Natural Language Processing (NLP)  
 
-- Notes(Python/Learning.md)
-- Commands(Python/Learning.md)
-- Projects(Python/Learning.md)
+- [Notes](NLP/Learning.md)
+- [Commands](NLP/Learning.md)
+- [Projects](NLP/Learning.md)
 
 <br>
 
