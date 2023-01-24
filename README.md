@@ -15,7 +15,7 @@ Note
 
 ### Python 
 
-- [Notes](Data-Science /Python/Learning.md)
+- [Notes](Data-Science /Python/Readme.md)
 - [Commands](Data-Science /Python/Learning.md)
 - [Projects](Data-Science /Python/Learning.md)
 
