@@ -15,7 +15,7 @@ Note
 
 ### Python 
 
-- Notes
+- [Notes](Learning.md)
 - Commands
 - Projects
 
