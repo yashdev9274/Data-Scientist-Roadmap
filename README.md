@@ -15,7 +15,7 @@ Note
 
 ### Python 
 
-- [Notes](Data-Science/Python)
+- [Notes](Data-Science /Python)
 - [Commands](Data-Science/Python)
 - [Projects](Data-Science/Python)
 
