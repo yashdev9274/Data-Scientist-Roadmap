@@ -15,9 +15,9 @@ Note
 
 ### Python 
 
-- [Notes](https://github.com/yashdev9274/Data-Scientist-Roadmap/blob/main/Data-Science%20/Python/README.md)
-- [Commands](Data-Science/Python)
-- [Projects](Data-Science/Python)
+- [Notes](https://github.com/yashdev9274/Data-Scientist-Roadmap/blob/main/Data-Science%20/Python)
+- [Commands](https://github.com/yashdev9274/Data-Scientist-Roadmap/tree/main/Data-Science%20/Python)
+- [Projects](https://github.com/yashdev9274/Data-Scientist-Roadmap/tree/main/Data-Science%20/Python)
 
 
 ### Statistics
@@ -26,34 +26,34 @@ Here are some key things that a data scientist should learn in statistics:
 
 <!-- 1. Probability: Probability is the study of random events, and is an essential part of statistics. A data scientist should understand basic concepts such as probability distributions, Bayes' theorem, and random variables. -->
 
-- [Notes](Data-Science/Statistics/Learning.md)
-- [Commands](Data-Science/Statistics/Learning.md)
-- [Projects](Data-Science/Statistics/Learning.md)
+- [Notes](https://github.com/yashdev9274/Data-Scientist-Roadmap/tree/main/Data-Science%20/Statistics)
+- [Commands](https://github.com/yashdev9274/Data-Scientist-Roadmap/tree/main/Data-Science%20/Statistics)
+- [Projects](https://github.com/yashdev9274/Data-Scientist-Roadmap/tree/main/Data-Science%20/Statistics)
 
 
 <br>
 
 ### Machine Learning
 
-- [Notes](Data-Science/Machine Learning/Learning.md)
-- [Commands](Data-Science/Machine Learning/Learning.md)
-- [Projects](Data-Science/Machine Learning/Learning.md)
+- [Notes](https://github.com/yashdev9274/Data-Scientist-Roadmap/tree/main/Data-Science%20/Machine%20Learning)
+- [Commands](https://github.com/yashdev9274/Data-Scientist-Roadmap/tree/main/Data-Science%20/Machine%20Learning)
+- [Projects](https://github.com/yashdev9274/Data-Scientist-Roadmap/tree/main/Data-Science%20/Machine%20Learning)
 
 <br>
 
 ### Deep Learning
 
-- [Notes](Data-Science/Data-Science /DeepLearning/Learning.md)
-- [Commands](Data-Science/Data-Science /DeepLearning/Learning.md)
-- [Projects](Data-Science/Data-Science /DeepLearning/Learning.md)
+- [Notes](https://github.com/yashdev9274/Data-Scientist-Roadmap/tree/main/Data-Science%20/DeepLearning)
+- [Commands](https://github.com/yashdev9274/Data-Scientist-Roadmap/tree/main/Data-Science%20/DeepLearning)
+- [Projects](https://github.com/yashdev9274/Data-Scientist-Roadmap/tree/main/Data-Science%20/DeepLearning)
 
 <br>
 
 ### Natural Language Processing (NLP)  
 
-- [Notes](Data-Science/NLP/Learning.md)
-- [Commands](Data-Science/NLP/Learning.md)
-- [Projects](Data-Science/NLP/Learning.md)
+- [Notes](https://github.com/yashdev9274/Data-Scientist-Roadmap/tree/main/Data-Science%20/NLP)
+- [Commands](https://github.com/yashdev9274/Data-Scientist-Roadmap/tree/main/Data-Science%20/NLP)
+- [Projects](https://github.com/yashdev9274/Data-Scientist-Roadmap/tree/main/Data-Science%20/NLP)
 
 <br>
 
