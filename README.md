@@ -15,7 +15,7 @@ Note
 
 ### Python 
 
-- [Notes](Data-Science /Python)
+- [Notes](https://github.com/yashdev9274/Data-Scientist-Roadmap/blob/main/Data-Science%20/Python/README.md)
 - [Commands](Data-Science/Python)
 - [Projects](Data-Science/Python)
 
