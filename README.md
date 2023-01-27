@@ -61,7 +61,7 @@ Here are some key things that a data scientist should learn in statistics:
 
 ### Skills required for Data Engineers
 
-### Big Data
+### SQL (Structured Query Language)
 
 - Notes
 - Commands
@@ -69,7 +69,56 @@ Here are some key things that a data scientist should learn in statistics:
 
 <br>
 
-### Data Ingestion
+### Basics Of Linux
+
+- Notes
+- Commands
+- Projects
+
+<br>
+
+### Core Data Engineering Concepts
+
+- Notes
+- Commands
+- Projects
+
+<br>
+
+### Data Warehouse Fundamentals
+
+- Notes
+- Commands
+- Projects
+
+<br>
+
+### Learn Batch/Realtime Streaming Pipeline Building
+
+- Notes
+- Commands
+- Projects
+
+<br>
+
+### Data Orchestration (AirFlow)
+
+- Notes
+- Commands
+- Projects
+
+<br>
+
+### Cloud Computing
+
+- Notes
+- Commands
+- Projects
+
+<br>
+
+
+<!-- ### Data Ingestion
 <br>
 
 ### Data Munging
@@ -77,6 +126,6 @@ Here are some key things that a data scientist should learn in statistics:
 
 ### Tool Box
 
-<br>
+<br> -->
 
 
