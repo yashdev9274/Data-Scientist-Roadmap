@@ -117,6 +117,21 @@ Here are some key things that a data scientist should learn in statistics:
 
 <br>
 
+### Kubernetes
+
+- Notes
+- Commands
+- Projects
+
+<br>
+
+### Docker
+
+- Notes
+- Commands
+- Projects
+
+<br>
 
 <!-- ### Data Ingestion
 <br>
