@@ -111,3 +111,5 @@ kubectl create deploy yash --image=nginx -n dev
 
 ## Labels and Selectors
 
+
+Labels are key value pairs that are attached to objects such as pods.
