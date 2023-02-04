@@ -29,6 +29,12 @@ In simple terms, Kubernetes is like a traffic controller for your containers. It
 This platform can run on-premises or in the cloud, and it makes it easy for organizations to deploy, scale and manage containerized applications in a consistent and predictable way.
 
 
+## Kubernetes Components
+
+This section is under maintainance.
+> You can raise issue to work on it 
+
+
 
 ## NameSpace
 
@@ -62,13 +68,18 @@ Note
 
 ### Start with Namespace
 
-```yaml
+You can this following commond to check the status of the current namespaces in a cluster you are using : 
 
 cmd:
 
+```yaml
+
 controlplane $ kubectl get ns
+```
 
 O/P:
+
+```yaml
 
 NAME              STATUS   AGE
 default           Active   35d
@@ -77,6 +88,26 @@ kube-public       Active   35d
 kube-system       Active   35d
 ```
 
+Now to create namespaces:
+
+```yaml
+
+kubectl create namespace <name>
+kubectl create namespace dev
+
+```
+for example
+
+```yaml
+
+kubectl create ns dev
+kubectl create ns testing
+kubectl create deploy yash --image=nginx
+kubectl create deploy yash --image=nginx -n dev
 
 
-## Kubernetes Components
+```
+
+
+## Labels and Selectors
+
