@@ -56,5 +56,27 @@ This namespace is readable by all clients (including those not authenticated). T
 
 The namespace for objects created by the Kubernetes system.
 
+Note 
+> Reference : [Kubernetes](https://kubernetes.io/docs/concepts/overview/working-with-objects/namespaces/)
+
+
+### Start with Namespace
+
+```yaml
+
+cmd:
+
+controlplane $ kubectl get ns
+
+O/P:
+
+NAME              STATUS   AGE
+default           Active   35d
+kube-node-lease   Active   35d
+kube-public       Active   35d
+kube-system       Active   35d
+```
+
+
 
 ## Kubernetes Components
