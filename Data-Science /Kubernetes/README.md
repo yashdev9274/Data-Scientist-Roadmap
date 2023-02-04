@@ -14,6 +14,12 @@ Resources Management: Kubernetes allows to easily manage resources like CPU, mem
 
 Overall, Kubernetes can help data scientists to manage the deployment and scaling of their containerized applications in a more efficient and reliable way.
 
+## Resources to learn
+
+- [Kubernetes Tutorial for Beginners](https://www.youtube.com/watch?v=KVBON1lA9N8) - [Kunal Kushwah]() 
+
+- [Kubernetes 101 workshop](https://youtu.be/PN3VqbZqmD8) - [Kubesimplify]
+
 ## What is Kubernetes?
 
 `Kubernetes` is an open-source platform that helps to manage and [`orchestrate`]() containerized workloads and services. It is a system that automates the deployment, scaling, and management of containerized applications.
@@ -21,3 +27,34 @@ Overall, Kubernetes can help data scientists to manage the deployment and scalin
 In simple terms, Kubernetes is like a traffic controller for your containers. It makes sure that your containers are running as they should, and if one of them fails, it will automatically start a new one. It also allows you to easily scale your applications up or down, depending on your needs.
 
 This platform can run on-premises or in the cloud, and it makes it easy for organizations to deploy, scale and manage containerized applications in a consistent and predictable way.
+
+
+
+## NameSpace
+
+This provide a isolated environmnet within a sigle cluster
+
+Note
+> Resources names must be distinct both within and between namespace,but not across other namespaces.
+
+
+## Initial Namespaces
+
+`default`
+
+Kubernetes includes this namespace so that you can start using your new cluster without first creating a namespace.
+
+`kube-node-lease`
+
+This namespace holds Lease objects associated with each node. Node leases allow the kubelet to send heartbeats so that the control plane can detect node failure.
+
+`kube-public`
+
+This namespace is readable by all clients (including those not authenticated). This namespace is mostly reserved for cluster usage, in case that some resources should be visible and readable publicly throughout the whole cluster. The public aspect of this namespace is only a convention, not a requirement.
+
+`kube-system`
+
+The namespace for objects created by the Kubernetes system.
+
+
+## Kubernetes Components
