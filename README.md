@@ -63,7 +63,7 @@ Here are some key things that a data scientist should learn in statistics:
 
 ### SQL (Structured Query Language)
 
-- Notes
+- [Notes](yashdev9274/Data-Scientist-Roadmap/Data-Science /SQL/Overview.md)
 - Commands
 - Projects
 
