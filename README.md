@@ -63,73 +63,81 @@ Here are some key things that a data scientist should learn in statistics:
 
 ### SQL (Structured Query Language)
 
-- [Notes](yashdev9274/Data-Scientist-Roadmap/Data-Science /SQL/Overview.md)
-- Commands
-- Projects
+- [Notes](https://github.com/yashdev9274/Data-Scientist-Roadmap/blob/main/Data-Science%20/SQL/Overview.md)
+- [Commands](https://github.com/yashdev9274/Data-Scientist-Roadmap/blob/main/Data-Science%20/SQL/Overview.md)
+- [Projects](https://github.com/yashdev9274/Data-Scientist-Roadmap/blob/main/Data-Science%20/SQL/Overview.md)
 
 <br>
 
 ### Basics Of Linux
 
-- Notes
-- Commands
-- Projects
+- [Notes](https://github.com/yashdev9274/Data-Scientist-Roadmap/blob/main/Data-Science%20/SQL/Overview.md)
+- [Commands](https://github.com/yashdev9274/Data-Scientist-Roadmap/blob/main/Data-Science%20/SQL/Overview.md)
+- [Projects](https://github.com/yashdev9274/Data-Scientist-Roadmap/blob/main/Data-Science%20/SQL/Overview.md)
+
 
 <br>
 
 ### Core Data Engineering Concepts
 
-- Notes
-- Commands
-- Projects
+- [Notes](https://github.com/yashdev9274/Data-Scientist-Roadmap/blob/main/Data-Science%20/SQL/Overview.md)
+- [Commands](https://github.com/yashdev9274/Data-Scientist-Roadmap/blob/main/Data-Science%20/SQL/Overview.md)
+- [Projects](https://github.com/yashdev9274/Data-Scientist-Roadmap/blob/main/Data-Science%20/SQL/Overview.md)
+
 
 <br>
 
 ### Data Warehouse Fundamentals
 
-- Notes
-- Commands
-- Projects
+- [Notes](https://github.com/yashdev9274/Data-Scientist-Roadmap/blob/main/Data-Science%20/SQL/Overview.md)
+- [Commands](https://github.com/yashdev9274/Data-Scientist-Roadmap/blob/main/Data-Science%20/SQL/Overview.md)
+- [Projects](https://github.com/yashdev9274/Data-Scientist-Roadmap/blob/main/Data-Science%20/SQL/Overview.md)
+
 
 <br>
 
 ### Learn Batch/Realtime Streaming Pipeline Building
 
-- Notes
-- Commands
-- Projects
+- [Notes](https://github.com/yashdev9274/Data-Scientist-Roadmap/blob/main/Data-Science%20/SQL/Overview.md)
+- [Commands](https://github.com/yashdev9274/Data-Scientist-Roadmap/blob/main/Data-Science%20/SQL/Overview.md)
+- [Projects](https://github.com/yashdev9274/Data-Scientist-Roadmap/blob/main/Data-Science%20/SQL/Overview.md)
+
 
 <br>
 
 ### Data Orchestration (AirFlow)
 
-- Notes
-- Commands
-- Projects
+- [Notes](https://github.com/yashdev9274/Data-Scientist-Roadmap/blob/main/Data-Science%20/SQL/Overview.md)
+- [Commands](https://github.com/yashdev9274/Data-Scientist-Roadmap/blob/main/Data-Science%20/SQL/Overview.md)
+- [Projects](https://github.com/yashdev9274/Data-Scientist-Roadmap/blob/main/Data-Science%20/SQL/Overview.md)
+
 
 <br>
 
 ### Cloud Computing
 
-- Notes
-- Commands
-- Projects
+- [Notes](https://github.com/yashdev9274/Data-Scientist-Roadmap/blob/main/Data-Science%20/SQL/Overview.md)
+- [Commands](https://github.com/yashdev9274/Data-Scientist-Roadmap/blob/main/Data-Science%20/SQL/Overview.md)
+- [Projects](https://github.com/yashdev9274/Data-Scientist-Roadmap/blob/main/Data-Science%20/SQL/Overview.md)
+
 
 <br>
 
 ### Kubernetes
 
-- Notes
-- Commands
-- Projects
+- [Notes](https://github.com/yashdev9274/Data-Scientist-Roadmap/blob/main/Data-Science%20/SQL/Overview.md)
+- [Commands](https://github.com/yashdev9274/Data-Scientist-Roadmap/blob/main/Data-Science%20/SQL/Overview.md)
+- [Projects](https://github.com/yashdev9274/Data-Scientist-Roadmap/blob/main/Data-Science%20/SQL/Overview.md)
+
 
 <br>
 
 ### Docker
 
-- Notes
-- Commands
-- Projects
+- [Notes](https://github.com/yashdev9274/Data-Scientist-Roadmap/blob/main/Data-Science%20/SQL/Overview.md)
+- [Commands](https://github.com/yashdev9274/Data-Scientist-Roadmap/blob/main/Data-Science%20/SQL/Overview.md)
+- [Projects](https://github.com/yashdev9274/Data-Scientist-Roadmap/blob/main/Data-Science%20/SQL/Overview.md)
+
 
 <br>
 
